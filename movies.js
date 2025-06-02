@@ -10,27 +10,27 @@ const movies = [
         downloadOptions: [
             {
                 quality: "4K 2160p",
-                size: "12.5GB",
-                downloadLink: "#"
+                size: "6.5GB",
+                downloadLink: "https://linksnr.vercel.app/#c=BYFxAcGcC4HpYCYCcCWA3ApgOgOYHs8cAbbAYzwFtYAzFExWARgwEkAmAQQoC8BFNACwBOAOoBWIgA8A4i25okAVQC0AETYB9ABIBRNkNJoNAZVhoUGAO5A"
             },
             {
                 quality: "Full HD 1080p",
-                size: "4.2GB",
+                size: "2.2GB",
                 downloadLink: "#"
             },
             {
                 quality: "HD 720p",
-                size: "2.1GB",
+                size: "935MB",
                 downloadLink: "#"
             },
             {
                 quality: "HD 720p HEVC",
-                size: "1.2GB",
+                size: "838MB",
                 downloadLink: "#"
             },
             {
                 quality: "SD 480p",
-                size: "0.56GB",
+                size: "560GB",
                 downloadLink: "#"
             }
         ]
@@ -45,27 +45,27 @@ const movies = [
         downloadOptions: [
             {
                 quality: "4K 2160p",
-                size: "13.1GB",
-                downloadLink: "#"
+                size: "3.1GB",
+                downloadLink: "https://linksnr.vercel.app/#c=BYFxAcGcC4HpYCYCcCWA3ApgOgOYHs8cAbbAYzwFtYAzFExWARgCMA7JagKQEUMB1AKIAlAPIBaAOx8A7gFZmASVKyA0gGYAagHEAGgFciALT6QtC2GhQZpQA"
             },
             {
                 quality: "Full HD 1080p",
-                size: "4.4GB",
+                size: "1.4GB",
                 downloadLink: "#"
             },
             {
                 quality: "HD 720p",
-                size: "2.2GB",
+                size: "887MB",
                 downloadLink: "#"
             },
             {
                 quality: "HD 720p HEVC",
-                size: "1.3GB",
+                size: "800MB",
                 downloadLink: "#"
             },
             {
                 quality: "SD 480p",
-                size: "0.60GB",
+                size: "600MB",
                 downloadLink: "#"
             }
         ]
@@ -80,27 +80,27 @@ const movies = [
         downloadOptions: [
             {
                 quality: "4K 2160p",
-                size: "12.0GB",
-                downloadLink: "#"
+                size: "5.0GB",
+                downloadLink: "https://linksnr.vercel.app/#c=BYFxAcGcC4HpYCYCcCWA3ApgOgOYHs8cAbbAYzwFtYAzFExWARgGYkARAKQC1nIAOAHaQAQgDYB1DAA8AsnwAKpANZsA8gGEQASVEB2AHIAWYADVYaFBgDuQA"
             },
             {
                 quality: "Full HD 1080p",
-                size: "4.0GB",
-                downloadLink: "#"
-            },
-            {
-                quality: "HD 720p",
                 size: "2.0GB",
                 downloadLink: "#"
             },
             {
+                quality: "HD 720p",
+                size: "1GB",
+                downloadLink: "#"
+            },
+            {
                 quality: "HD 720p HEVC",
-                size: "1.1GB",
+                size: "700MB",
                 downloadLink: "#"
             },
             {
                 quality: "SD 480p",
-                size: "0.55GB",
+                size: "650MB",
                 downloadLink: "#"
             }
         ]
@@ -115,22 +115,22 @@ const movies = [
         downloadOptions: [
             {
                 quality: "4K 2160p",
-                size: "11.8GB",
-                downloadLink: "#"
+                size: "5.8GB",
+                downloadLink: "https://linksnr.vercel.app/#c=BYFxAcGcC4HpYCYCcCWA3ApgOgOYHs8cAbbAYzwFtYAzFExWARgDsAvAJgE8BrAEQGUAqgFcAmgCUAHpwDqCAFooAHAA0A4oKUBFSAEEAogCMAbIMEA5AMyw0KDAHcgA"
             },
             {
                 quality: "Full HD 1080p",
-                size: "3.8GB",
+                size: "2.8GB",
                 downloadLink: "#"
             },
             {
                 quality: "HD 720p",
-                size: "1.9GB",
+                size: "0.70GB",
                 downloadLink: "#"
             },
             {
                 quality: "HD 720p HEVC",
-                size: "1.0GB",
+                size: "0.70GB",
                 downloadLink: "#"
             },
             {
@@ -150,27 +150,27 @@ const movies = [
         downloadOptions: [
             {
                 quality: "4K 2160p",
-                size: "12.2GB",
-                downloadLink: "#"
+                size: "5.2GB",
+                downloadLink: "https://linksnr.vercel.app/#c=BYFxAcGcC4HpYCYCcCWA3ApgOgOYHs8cAbbAYzwFtYAzFExWARmAXAA4BPcUgLQHcAHgCEALAFcAbAAkAShUg4AjgME8A4orQArAMJoA6m1hoUGPkA"
             },
             {
                 quality: "Full HD 1080p",
-                size: "4.3GB",
-                downloadLink: "#"
-            },
-            {
-                quality: "HD 720p",
                 size: "2.3GB",
                 downloadLink: "#"
             },
             {
+                quality: "HD 720p",
+                size: "762MB",
+                downloadLink: "#"
+            },
+            {
                 quality: "HD 720p HEVC",
-                size: "1.2GB",
+                size: "762MB",
                 downloadLink: "#"
             },
             {
                 quality: "SD 480p",
-                size: "0.60GB",
+                size: "460MB",
                 downloadLink: "#"
             }
         ]
@@ -185,27 +185,27 @@ const movies = [
         downloadOptions: [
             {
                 quality: "4K 2160p",
-                size: "11.5GB",
-                downloadLink: "#"
+                size: "6.5GB",
+                downloadLink: "https://linksnr.vercel.app/#c=BYFxAcGcC4HpYCYCcCWA3ApgOgOYHs8cAbbAYzwFtYAzFExWARhQHkAWAJQFYBhSBAO44AygGsAEgC1GAI0YAGAFIBJAKoB1AK6SAMiwBMo5QDEAmgEVYGBChBA"
             },
             {
                 quality: "Full HD 1080p",
-                size: "3.7GB",
+                size: "2.7GB",
                 downloadLink: "#"
             },
             {
                 quality: "HD 720p",
-                size: "1.8GB",
+                size: "653MB",
                 downloadLink: "#"
             },
             {
                 quality: "HD 720p HEVC",
-                size: "0.9GB",
+                size: "600MB",
                 downloadLink: "#"
             },
             {
                 quality: "SD 480p",
-                size: "0.48GB",
+                size: "480MB",
                 downloadLink: "#"
             }
         ]
@@ -220,22 +220,22 @@ const movies = [
         downloadOptions: [
             {
                 quality: "4K 2160p",
-                size: "12.7GB",
-                downloadLink: "#"
+                size: "5.7GB",
+                downloadLink: "https://linksnr.vercel.app/#c=BYFxAcGcC4HpYCYCcCWA3ApgOgOYHs8cAbbAYzwFtYAzFExWARgFc8BPANQHcBFABQDqASQDyAWQAcAGWpCJjAEwARAEYgkjAEoB9EgBYUAKwDiQ2GhQYuQA"
             },
             {
                 quality: "Full HD 1080p",
-                size: "4.1GB",
-                downloadLink: "#"
-            },
-            {
-                quality: "HD 720p",
                 size: "2.1GB",
                 downloadLink: "#"
             },
             {
-                quality: "HD 720p HEVC",
+                quality: "HD 720p",
                 size: "1.1GB",
+                downloadLink: "#"
+            },
+            {
+                quality: "HD 720p HEVC",
+                size: "1GB",
                 downloadLink: "#"
             },
             {
@@ -290,27 +290,27 @@ const movies = [
         downloadOptions: [
             {
                 quality: "4K 2160p",
-                size: "11.9GB",
-                downloadLink: "#"
+                size: "7.9GB",
+                downloadLink: "https://linksnr.vercel.app/#c=BYFxAcGcC4HpYCYCcCWA3ApgOgOYHs8cAbbAYzwFtYAzFExWARgGtGAPADQC1qBPAJjTMA7CgByAaQAyHAF4YA6rwB2ATgCqAQXXAKAKQDKCcI1hoUGAO5A"
             },
             {
                 quality: "Full HD 1080p",
-                size: "3.9GB",
+                size: "2.9GB",
                 downloadLink: "#"
             },
             {
                 quality: "HD 720p",
-                size: "1.9GB",
+                size: "803MB",
                 downloadLink: "#"
             },
             {
                 quality: "HD 720p HEVC",
-                size: "1.0GB",
+                size: "800MB",
                 downloadLink: "#"
             },
             {
                 quality: "SD 480p",
-                size: "0.52GB",
+                size: "520MB",
                 downloadLink: "#"
             }
         ]
@@ -325,34 +325,34 @@ const movies = [
         downloadOptions: [
             {
                 quality: "4K 2160p",
-                size: "12.3GB",
-                downloadLink: "#"
+                size: "4.3GB",
+              	downloadLink: "https://linksnr.vercel.app/#c=BYFxAcGcC4HpYCYCcCWA3ApgOgOYHs8cAbbAYzwFtYAzFExWARgA8AhAWhADsAlAOQBqADQDiAGQBeeAIaM+AIz4iAzIwCKAYWUBJAFIAWEAAlgAazyw0KDAHcgA"
             },
             {
                 quality: "Full HD 1080p",
-                size: "4.1GB",
-                downloadLink: "#"
-            },
-            {
-                quality: "HD 720p",
                 size: "2.1GB",
                 downloadLink: "#"
             },
             {
+                quality: "HD 720p",
+                size: "887MB",
+                downloadLink: "#"
+            },
+            {
                 quality: "HD 720p HEVC",
-                size: "1.2GB",
+                size: "800MB",
                 downloadLink: "#"
             },
             {
                 quality: "SD 480p",
-                size: "0.55GB",
+                size: "588MB",
                 downloadLink: "#"
             }
         ]
     },
     {
         id: 11,
-        title: "3 Idiots",
+        title: "3 Idiots (2009) Hindi - 480p, 720p, 1080p & 4k | GDrive",
         releaseDate: "December 25, 2009",
         imdbRating: 8.4,
         bannerLink: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjnyg_mrR5jsc3ULkVXwQFGtuqSJKIgN0ekWvJIL56bot9IURYx8pQVn7jBK03zNRvRQGLyoZVZosNazbKUSPNZCbHji7lag7lZdeY4fuCyfO7L489P-oYKInFqdzhQJQUw8H8byU8AU7FQrPspvnlaV0y3BeIeBfuZIRBVuHEKzCv69OBzpczAraLuDA/s1600/1.png",
@@ -360,27 +360,27 @@ const movies = [
         downloadOptions: [
             {
                 quality: "4K 2160p",
-                size: "12.8GB",
-                downloadLink: "#"
+                size: "4.8GB",
+                downloadLink: "https://linksnr.vercel.app/#c=BYFxAcGcC4HpYCYCcCWA3ApgOgOYHs8cAbbAYzwFtYAzFExWARnAHUA1AWQGUAmHHEAC8AUuACsAeQBajAMwAGERQBiASQAiwAIoAWABqCp7WBgQoQQA"
             },
             {
                 quality: "Full HD 1080p",
-                size: "4.5GB",
+                size: "2.5GB",
                 downloadLink: "#"
             },
             {
                 quality: "HD 720p",
-                size: "2.3GB",
+                size: "850MB",
                 downloadLink: "#"
             },
             {
                 quality: "HD 720p HEVC",
-                size: "1.4GB",
+                size: "800MB",
                 downloadLink: "#"
             },
             {
                 quality: "SD 480p",
-                size: "0.68GB",
+                size: "700MB",
                 downloadLink: "#"
             }
         ]
@@ -956,7 +956,7 @@ const movies = [
             {
                 quality: "4K 2160p",
                 size: "13.0GB",
-                downloadLink: "#"
+                downloadLink: "https://linksnr.vercel.app/#c=BYFxAcGcC4HpYCYCcCWA3ApgOgOYHs8cAbbAYzwFtYAzFExWARkjQFEMAxADQCEMlSAOQCaAFSQUEwgO4AOAKwBZCgAUkAD0iCAgtoDK8gK6w0KDNID8hyOAC8ydBgD6RFADsA1kA"
             },
             {
                 quality: "Full HD 1080p",
@@ -991,7 +991,7 @@ const movies = [
             {
                 quality: "4K 2160p",
                 size: "13.7GB",
-                downloadLink: "#"
+                downloadLink: "https://linksnr.vercel.app/#c=BYFxAcGcC4HpYCYCcCWA3ApgOgOYHs8cAbbAYzwFtYAzFExWARkjQFEMAxADQCEMlSAOQCaAFSQUEwgO4AOAKwBZCgAUkAD0iCAgtoDK8gK6w0KDNID8hyOAC8ydBgD6RFADsA1kA"
             },
             {
                 quality: "Full HD 1080p",
@@ -1001,7 +1001,7 @@ const movies = [
             {
                 quality: "HD 720p",
                 size: "2.9GB",
-                downloadLink: "#"
+                downloadLink: "https://linksnr.vercel.app/#c=BYFxAcGcC4HpYCYCcCWA3ApgOgOYHs8cAbbAYzwFtYAzFExWARkjQFEMAxADQCEMlSAOQCaAFSQUEwgO4AOAKwBZCgAUkAD0iCAgtoDK8gK6w0KDNID8hyOAC8ydBgD6RFADsA1kA"
             },
             {
                 quality: "HD 720p HEVC",
@@ -1026,12 +1026,12 @@ const movies = [
             {
                 quality: "4K 2160p",
                 size: "14.0GB",
-                downloadLink: "#"
+                downloadLink: "https://linksnr.vercel.app/#c=BYFxAcGcC4HpYCYCcCWA3ApgOgOYHs8cAbbAYzwFtYAzFExWARkjQFEMAxADQCEMlSAOQCaAFSQUEwgO4AOAKwBZCgAUkAD0iCAgtoDK8gK6w0KDNID8hyOAC8ydBgD6RFADsA1kA"
             },
             {
                 quality: "Full HD 1080p",
                 size: "5.3GB",
-                downloadLink: "#"
+                downloadLink: "https://linksnr.vercel.app/#c=BYFxAcGcC4HpYCYCcCWA3ApgOgOYHs8cAbbAYzwFtYAzFExWARkjQFEMAxADQCEMlSAOQCaAFSQUEwgO4AOAKwBZCgAUkAD0iCAgtoDK8gK6w0KDNID8hyOAC8ydBgD6RFADsA1kA"
             },
             {
                 quality: "HD 720p",
@@ -1061,26 +1061,26 @@ const movies = [
             {
                 quality: "4K 2160p",
                 size: "13.3GB",
-                downloadLink: "#"
+                downloadLink: "https://linksnr.vercel.app/#c=BYFxAcGcC4HpYCYCcCWA3ApgOgOYHs8cAbbAYzwFtYAzFExWARkjQFEMAxADQCEMlSAOQCaAFSQUEwgO4AOAKwBZCgAUkAD0iCAgtoDK8gK6w0KDNID8hyOAC8ydBgD6RFADsA1kA"
             },
             {
                 quality: "Full HD 1080p",
                 size: "4.9GB",
-                downloadLink: "#"
+                downloadLink: "https://linksnr.vercel.app/#c=BYFxAcGcC4HpYCYCcCWA3ApgOgK6Q0gMYD2AdiBuVgObHHUA22JAtosQO6kPECGCAfhQIAvAEYADADUA+gE8kEgJoAxAErAEASQDiLABoA2ACwAhAMxqxpCeYDqADwCqAIyQAJOaQBkGB+GIkEBEETm4+BG9eHBBgPAIRCSA"
             },
             {
                 quality: "HD 720p",
-                size: "2.6GB",
+                size: "2.00B",
                 downloadLink: "#"
             },
             {
                 quality: "HD 720p HEVC",
-                size: "1.8GB",
+                size: ".80GB",
                 downloadLink: "#"
             },
             {
                 quality: "SD 480p",
-                size: "0.80GB",
+                size: "0.70GB",
                 downloadLink: "#"
             }
         ]
@@ -1096,7 +1096,7 @@ const movies = [
             {
                 quality: "4K 2160p",
                 size: "12.9GB",
-                downloadLink: "#"
+                downloadLink: "https://linksnr.vercel.app/#c=BYFxAcGcC4HpYCYCcCWA3ApgOgK6Q0gMYD2AdiBuVgObHHUA22JAtosQO6kPECGCAfhQIAvAEYADADUA+gE8kEgJoAxAErAEASQDiLABoA2ACwAhAMxqxpCeYDqADwCqAIyQAJOaQBkGB+GIkEBEETm4+BG9eHBBgPAIRCSA"
             },
             {
                 quality: "Full HD 1080p",
@@ -1131,7 +1131,7 @@ const movies = [
             {
                 quality: "4K 2160p",
                 size: "13.4GB",
-                downloadLink: "#"
+                downloadLink: "https://linksnr.vercel.app/#c=BYFxAcGcC4HpYCYCcCWA3ApgOgK6Q0gMYD2AdiBuVgObHHUA22JAtosQO6kPECGCAfhQIAvAEYADADUA+gE8kEgJoAxAErAEASQDiLABoA2ACwAhAMxqxpCeYDqADwCqAIyQAJOaQBkGB+GIkEBEETm4+BG9eHBBgPAIRCSA"
             },
             {
                 quality: "Full HD 1080p",
@@ -1154,7 +1154,79 @@ const movies = [
                 downloadLink: "#"
             }
         ]
-    }
+    },
+    {
+    id: 34,
+    title: "Marigold (2024) Hindi Dubbed",
+    releaseDate: "April 5, 2024",
+    imdbRating: 6.5,
+    bannerLink: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhoenQduChwONn5mFfLMWMMWSqf3Qju0nOqeXq0dxqOn71RvJGVTu0sxUwj96rg6aNVQoyJ61FtKp7PMPSYynKTsP4mIjbR7j8elahOeewUwMA17H3QgRVdGktcHpk3prPOVw9g67yIn3zqhLNCU2u9rmg8w_8jZOLCoNe_j2zGLTj31UcZm5BokTxwfw/s1560/1000109596.jpg",
+    categories: ["Romance", "Drama"],
+    downloadOptions: [
+        {
+            quality: "4K 2160p",
+            size: "13.4GB",
+            downloadLink: "https://linksnr.vercel.app/#c=BYFxAcGcC4HpYCYCcCWA3ApgOgOYHs8cAbbAYzwFtYAzFExWARgCY8BRAcQGUKBhNtAAlgAayQAZACoB9AF54ArNQDMRAAoBOALTSA0lwBSANhA5YaFBgDuQA"
+        },
+        {
+            quality: "Full HD 1080p",
+            size: "4.7GB",
+            downloadLink: "#"
+        },
+        {
+            quality: "HD 720p",
+            size: "900MB",
+            downloadLink: "#"
+        },
+        {
+            quality: "HD 720p HEVC",
+            size: "650MB",
+            downloadLink: "#"
+        },
+        {
+            quality: "SD 480p",
+            size: "400MB",
+            downloadLink: "#"
+        }
+    ]
+},
+{
+    id: 35,
+    title: "Last Breath (2025) [Hindi – Eng]",
+    releaseDate: "February 28, 2025",
+    imdbRating: 7.3,
+    bannerLink: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhRrfWjGBgRvXPWUDnUrthSQ0H-39UMrP218atbnW8eevpxu9U-cmk6Vi8QH8pdzpS7bjgavbPHDnRUqzxgXtGySyK9-uM-5diwiuuIsQvwARcotW8cQIg6Lntwjo62vbGmQ5pdI2dyOCLNdWkNc-BW3DGlqnSqGq5V0BQoBLuA7pQIF3cLvCo9ImJBGg/s1560/1000109597.jpg",
+    categories: ["Featured","Thriller", "Action"],
+    downloadOptions: [
+        {
+            quality: "4K 2160p",
+            size: "14GB",
+            downloadLink: "https://linksnr.vercel.app/#c=BYFxAcGcC4HpYCYCcCWA3ApgOgOYHs8cAbbAYzwFtYAzFExWARgEc0AFAJQDUB2AYQBejAK5EBAVWYBRIgDsAbAHcA6gFkAniACGAaWXqAHgA0uAZi6w0KDIqA"
+        },
+        {
+            quality: "Full HD 1080p",
+            size: "5.2GB",
+            downloadLink: "#"
+        },
+        {
+            quality: "HD 720p",
+            size: "840MB",
+            downloadLink: "#"
+        },
+        {
+            quality: "HD 720p HEVC",
+            size: "700MB",
+            downloadLink: "#"
+        },
+        {
+            quality: "SD 480p",
+            size: "450MB",
+            downloadLink: "#"
+        }
+    ]
+}
+
+    
 ];
 
 // Function to render movie posts in grid
