@@ -395,27 +395,27 @@ const movies = [
         downloadOptions: [
             {
                 quality: "4K 2160p",
-                size: "13.2GB",
-                downloadLink: "#"
+                size: "3.2GB",
+                downloadLink: "https://linksnr.vercel.app/#c=BYFxAcGcC4HpYCYCcCWA3ApgOgOYHs8cAbbAYzwFtYAzFExWARgEk0AmNAZk-AC8AVZgHcACgHkArgE5wQgFoBrAKJCA4gDVG4PGgCeAIUZTVsDAhQggA"
             },
             {
                 quality: "Full HD 1080p",
-                size: "4.7GB",
+                size: "0.5GB",
                 downloadLink: "#"
             },
             {
                 quality: "HD 720p",
-                size: "2.5GB",
+                size: "0.5GB",
                 downloadLink: "#"
             },
             {
                 quality: "HD 720p HEVC",
-                size: "1.6GB",
+                size: "0.5GB",
                 downloadLink: "#"
             },
             {
                 quality: "SD 480p",
-                size: "0.72GB",
+                size: "0.5GB",
                 downloadLink: "#"
             }
         ]
@@ -431,26 +431,26 @@ const movies = [
             {
                 quality: "4K 2160p",
                 size: "11.9GB",
-                downloadLink: "#"
+                downloadLink: "https://linksnr.vercel.app/#c=BYFxAcGcC4HpYCYCcCWA3ApgOgOYHs8cAbbAYzwFtYAzFExWARgEUA2AV1KQBEAmcAFoAPNAA4ARgDsAnIwAKAZgD61AAwB1AOwAWAEIBPJAGtuAaQASAKVgYEKEEA"
             },
             {
                 quality: "Full HD 1080p",
-                size: "4.1GB",
+                size: "1.4GB",
                 downloadLink: "#"
             },
             {
                 quality: "HD 720p",
-                size: "2.0GB",
+                size: "1.4GB",
                 downloadLink: "#"
             },
             {
                 quality: "HD 720p HEVC",
-                size: "1.1GB",
+                size: "1.4GB",
                 downloadLink: "#"
             },
             {
                 quality: "SD 480p",
-                size: "0.55GB",
+                size: "1.4GB",
                 downloadLink: "#"
             }
         ]
